@@ -3,11 +3,12 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education								       		
-**(_2021-_): M.S., Economics	| University of Tehran** 
+**_2021-_: M.S., Economics	| University of Tehran** 
 - Adviser: [Mohammad Hossein Dehghani](https://sites.google.com/site/mhdehghani)
 - Overall Score: 19.34/20 (GPA: 4.0/4.0)
 -  Rank 1
-**(_2016-2020_): B.S., Economics | University of Tehran**
+
+**_2016-2020_: B.S., Economics | University of Tehran**
 - Overall Score:17.26/20 (GPA: 3.62/4.0)
 - Rank 8, Distinguished as a talented student 
 
