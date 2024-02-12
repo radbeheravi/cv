@@ -2,12 +2,16 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education								       		
+**(_2021-_): M.S., Economics	| University of Tehran** 
+- Adviser: [Mohammad Hossein Dehghani](https://sites.google.com/site/mhdehghani)
+- Overall Score: 19.34/20 (GPA: 4.0/4.0)
+-  Rank 1
+**(_2016-2020_): B.S., Economics | University of Tehran**
+- Overall Score:17.26/20 (GPA: 3.62/4.0)
+- Rank 8, Distinguished as a talented student 
 
-## Work Experience
+## Research Interests
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
